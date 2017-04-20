@@ -1,4 +1,7 @@
-# test coverage for  [unfluff (v1.1.0)](https://github.com/ageitgey/node-unfluff)  [![npm package](https://img.shields.io/npm/v/npmtest-unfluff.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-unfluff) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-unfluff.svg)](https://travis-ci.org/npmtest/node-npmtest-unfluff)
+# npmtest-unfluff
+
+#### basic test coverage for  [unfluff (v1.1.0)](https://github.com/ageitgey/node-unfluff)  [![npm package](https://img.shields.io/npm/v/npmtest-unfluff.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-unfluff) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-unfluff.svg)](https://travis-ci.org/npmtest/node-npmtest-unfluff)
+
 #### A web page content extractor
 
 [![NPM](https://nodei.co/npm/unfluff.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/unfluff)
